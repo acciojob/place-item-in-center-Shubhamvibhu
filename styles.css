@@ -1,18 +1,15 @@
 
 /* Your CSS Code here. */
 .holder{
-	
-	height:100px;
-	width:100px;
-	background-color:green;
-	background-color:green;
+	display:flex;
+	width:100%;
+	flex-direction:fullscreen;
 	justify-content:center;
-	align-items: center;
+	align-items:center;
+	position:center;
+	
 }
 .item-1{
-/* 	display:flex; */
-	font-size:50px;
-/* 	margin-right:auto; */
-	
+border:1px solid black;
 	
 }
